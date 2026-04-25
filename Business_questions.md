@@ -2,6 +2,8 @@ Q1. Top 5 Category Revenue Trend (2021–2025)
 
 Understanding category trends is essential for inventory planning, shelf allocation, and supplier negotiation. If a dominant category is declining, the business must act before revenue erodes. If a smaller category is accelerating, early shelf investment pays off.
 
+![Category Trend 2021-2025](images/Category_trend%20(2021-'25).png)
+
 Key Finding:
 - American Vodkas is Iowa's highest revenue category at $64.9M in 2025 with 31.8M bottles sold from 2021 - 2025, but is showing a concerning decline trend: 0.4% down in 2024 and 3.2% in 2025. This signals market saturation or shifting consumer preference away from standard vodka SKUs.
 - Canadian Whiskies peaked in 2023 at $50.4M with strong 10% growth, but reversed sharply, declining 8.1% in 2025 to $45.8M. 
