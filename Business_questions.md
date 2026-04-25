@@ -1,3 +1,5 @@
+This project analyzes 33.8 million Iowa liquor wholesale transactions (2021–2025) from the Iowa Alcoholic Beverages Division, publicly available in Google BigQuery to identify which category trend, top revenue stores, and to recommend data-backed shelf-space decisions for 2026. And this analysis was carried out as of April, 2026.
+
 ## Q1. Top 5 Category Revenue Trend (2021–2025)
 
 Understanding category trends is essential for inventory planning, shelf allocation, and supplier negotiation. If a dominant category is declining, the business must act before revenue erodes. If a smaller category is accelerating, early shelf investment pays off.
