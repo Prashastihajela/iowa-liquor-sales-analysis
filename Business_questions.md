@@ -25,7 +25,7 @@ If top stores earn from non-top5 categories (outliers):
   - Local/niche demand is strong.
   - Store-level customization creates more value than uniform shelves.
 
-![Top5_Stores_with_Top5_cat](images/Top5_Stores_with_Top5_cat.png)
+![Top5_Stores_with_Top5_cat](images/Top5 Stores_with_Top5_cat.png)
 
 Every single store has at least one "Other" category in their top 5. This means the answer is neither pure standardization nor pure localization; it's a hybrid strategy.
 Key Finding:
