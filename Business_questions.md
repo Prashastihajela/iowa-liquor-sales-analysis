@@ -15,7 +15,7 @@ Remove Items in 2026
 
 Key Finding: Three items identified for discontinuation based on near-total YoY revenue collapse (approx. -99%) with minimal 2025 revenue despite presence in 5–7 stores:
 
-Q2. Which stores generated the most revenue in 2025, and do their top orders match overall top 5 categories?
+## Q2. Which stores generated the most revenue in 2025, and do their top orders match overall top 5 categories?
 This question drives a real business decision: standardize shelves vs localize shelves.
 If top stores earn from the same statewide top 5 categories:
   - Demand is broad and repeatable.
@@ -25,7 +25,7 @@ If top stores earn from non-top5 categories (outliers):
   - Local/niche demand is strong.
   - Store-level customization creates more value than uniform shelves.
 
-![Top5_Stores_with_Top5_cat](images/Top5 Stores_with_Top5_cat.png)
+![Top5_Stores_with_Top5_cat](images/Top5%20Stores_with_Top5_cat.png)
 
 Every single store has at least one "Other" category in their top 5. This means the answer is neither pure standardization nor pure localization; it's a hybrid strategy.
 Key Finding:
@@ -39,8 +39,7 @@ Recommendation
 Q3. Where are Iowa's top 5 revenue stores geographically, what do they sell most, and how profitable is it per bottle?
 Geographic concentration reveals market saturation and white-space opportunity. If all top stores cluster in one metro, rural regions may be underserved - or demand simply does not exist there. Per-bottle profit alongside category shows which product mix is most efficient, not just which is highest volume.
 
-
-
+![Top5_store_map](images/Top5_store_map.png)
 
 
 Iowa's top 5 revenue stores are not evenly distributed. The map shows clear concentration: the two largest stores (HY-VEE #3 and Central City 2, visible as the largest bubbles) are in the Des Moines metro area in central-western Iowa. Two stores cluster in eastern Iowa, and one sits in a mid-state position.
