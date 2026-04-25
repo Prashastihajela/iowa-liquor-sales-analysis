@@ -17,8 +17,11 @@ This project analyzes 33.8 million Iowa liquor wholesale transactions (2021–20
 ## Available Data
 
 Dataset: iowa_liquor_sales Data
+
 Data source: BigQuery Public Data
+
 Data Coverage: 2021–2025 for trend and performance questions (with 2024–2025 comparison for shelf optimization)
+
 Key Columns: date, store_name, store_location (geospatial), category_name, item_description, bottle_volume_ml, state_bottle_cost, state_bottle_retail, bottles_sold, sale_dollars
 
 Business Case Study Questions and Answers
