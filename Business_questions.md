@@ -1,4 +1,4 @@
-Q1. Top 5 Category Revenue Trend (2021–2025)
+## Q1. Top 5 Category Revenue Trend (2021–2025)
 
 Understanding category trends is essential for inventory planning, shelf allocation, and supplier negotiation. If a dominant category is declining, the business must act before revenue erodes. If a smaller category is accelerating, early shelf investment pays off.
 
@@ -18,14 +18,14 @@ Key Finding: Three items identified for discontinuation based on near-total YoY 
 Q2. Which stores generated the most revenue in 2025, and do their top orders match overall top 5 categories?
 This question drives a real business decision: standardize shelves vs localize shelves.
 If top stores earn from the same statewide top 5 categories:
-Demand is broad and repeatable.
-One core assortment strategy can scale across stores.
-Easier procurement, pricing, and inventory planning.
+  - Demand is broad and repeatable.
+  - One core assortment strategy can scale across stores.
+  - Easier procurement, pricing, and inventory planning.
 If top stores earn from non-top5 categories (outliers):
-Local/niche demand is strong.
-Store-level customization creates more value than uniform shelves.
+  - Local/niche demand is strong.
+  - Store-level customization creates more value than uniform shelves.
 
-
+![Top5_Stores_with_Top5_cat](images/Top5_Stores_with_Top5_cat.png)
 
 Every single store has at least one "Other" category in their top 5. This means the answer is neither pure standardization nor pure localization; it's a hybrid strategy.
 Key Finding:
