@@ -45,7 +45,8 @@ Every single store has at least one "Other" category in their top 5. This means 
 
 For high-volume urban stores (like HY-VEE #3 profile): Shift shelf space from Vodka to Tequila --> Same revenue, fewer SKUs, better margin efficiency
 
-Q3. Where are Iowa's top 5 revenue stores geographically, what do they sell most, and how profitable is it per bottle?
+## Q3. Where are Iowa's top 5 revenue stores geographically, what do they sell most, and how profitable is it per bottle?
+
 Geographic concentration reveals market saturation and white-space opportunity. If all top stores cluster in one metro, rural regions may be underserved - or demand simply does not exist there. Per-bottle profit alongside category shows which product mix is most efficient, not just which is highest volume.
 
 ![Top5_store_map](images/Top5_store_map.png)
